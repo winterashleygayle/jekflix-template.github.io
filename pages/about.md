@@ -7,8 +7,8 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
+<img class="img-rounded" src="treebranch.jpg" alt="Thomas A. Anderson" width="200">
 
 # About
 
-Hi I am Ashley WInter
+Hello. I am Ashley WInter
