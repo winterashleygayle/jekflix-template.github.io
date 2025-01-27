@@ -45,8 +45,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "http://jekflix-template.github.io" # the subpath of your site, e.g. /blog
-url: "http://jekflix-template.github.io" # the base hostname & protocol for your site
+url: "https://winterashleygayle.github.io"
+baseurl: "/jekflix-template"
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
