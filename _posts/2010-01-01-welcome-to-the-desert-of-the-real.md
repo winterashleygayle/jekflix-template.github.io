@@ -6,9 +6,9 @@ subtitle: 'represents the harmonious blend of spiritual wisdom and practical exp
 description: >-
   Healing Through Vulnerability: My Journey of Overcoming Childhood Wounds.
 image: >-
-  assets/img/uploads/flower.png
+  moonbranch.jpg
 optimized_image: >-
-  assets/img/uploads/flower.png
+  moonbranch.jpg
 category: blog
 tags:
   - welcome
