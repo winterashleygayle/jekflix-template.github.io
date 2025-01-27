@@ -1,8 +1,9 @@
 # Site Settings
 name: Ashley Winter
 title: Ashley Winter | A Portfolio of Immersive Visuals
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+description: A creative portfolio exploring photography, AI art, videography, and Mixed Media Reality.
+email: your-email@example.com
+
 tags:
   - blog
   - template
@@ -15,10 +16,11 @@ menu:
     url: /
   - title: About
     url: /about
+  - title: Portfolio
+    url: /portfolio
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
