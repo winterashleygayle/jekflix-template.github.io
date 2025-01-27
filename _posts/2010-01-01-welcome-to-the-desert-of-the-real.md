@@ -1,8 +1,8 @@
 ---
 date: 2025-01-16 23:48:05
 layout: post
-title: "Hiking Life’s Trails: From Shamanism to Business Strategy"
-subtitle: 'represents the harmonious blend of spiritual wisdom and practical expertise. It’s about navigating life with intention—rooted in shamanistic values like balance, connection, and self-awareness—while applying strategic thinking to create impactful, purpose-driven outcomes. Just as hiking requires focus, adaptability, and resilience, this philosophy emphasizes grounding decisions in authenticity and blending intuition with structured planning to achieve growth and transformation.'
+title: "Hiking Life’s Trails: From Spirituality to Business Strategy"
+subtitle: 'what in the actual fuck.'
 description: >-
   Healing Through Vulnerability: My Journey of Overcoming Childhood Wounds.
 image: >-
