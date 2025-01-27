@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="fog.jpg" alt="fog" width="200">
+<img class="img-rounded" src="wave.jpg" alt="fog" width="200">
 
 # About
 
