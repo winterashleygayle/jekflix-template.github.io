@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="assets/img/uploads/flower.png" alt="flower" width="200">
+<img class="img-rounded" src="fog.jpg" alt="fog" width="200">
 
 # About
 
