@@ -6,7 +6,7 @@ subtitle: 'represents the harmonious blend of spiritual wisdom and practical exp
 description: >-
   Healing Through Vulnerability: My Journey of Overcoming Childhood Wounds.
 image: >-
-  assets/img/flower.jpg
+  assets/img/uploads/flower.png
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
