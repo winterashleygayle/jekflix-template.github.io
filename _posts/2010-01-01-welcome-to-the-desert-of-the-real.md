@@ -6,9 +6,9 @@ subtitle: 'what in the actual fuck.'
 description: >-
   Healing Through Vulnerability: My Journey of Overcoming Childhood Wounds.
 image: >-
-  treebranch.jpg
+  fog.jpg
 optimized_image: >-
-  treebranch.jpg
+  fog.jpg
 category: blog
 tags:
   - welcome
