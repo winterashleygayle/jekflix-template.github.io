@@ -2,7 +2,7 @@
 date: 2019-05-16 23:48:05
 layout: post
 title: "Hiking Life’s Trails: From Shamanism to Business Strategy"
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+subtitle: 'represents the harmonious blend of spiritual wisdom and practical expertise. It’s about navigating life with intention—rooted in shamanistic values like balance, connection, and self-awareness—while applying strategic thinking to create impactful, purpose-driven outcomes. Just as hiking requires focus, adaptability, and resilience, this philosophy emphasizes grounding decisions in authenticity and blending intuition with structured planning to achieve growth and transformation.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
