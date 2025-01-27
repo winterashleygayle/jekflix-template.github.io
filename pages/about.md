@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="treebranch.jpg" alt="Thomas A. Anderson" width="200">
+<img> "treebranch.jpg" alt="Thomas A. Anderson" width="200">
 
 # About
 
