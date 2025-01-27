@@ -1,11 +1,10 @@
 ---
-date: 2019-05-16 23:48:05
+date: 2025-01-16 23:48:05
 layout: post
 title: "Hiking Life’s Trails: From Shamanism to Business Strategy"
 subtitle: 'represents the harmonious blend of spiritual wisdom and practical expertise. It’s about navigating life with intention—rooted in shamanistic values like balance, connection, and self-awareness—while applying strategic thinking to create impactful, purpose-driven outcomes. Just as hiking requires focus, adaptability, and resilience, this philosophy emphasizes grounding decisions in authenticity and blending intuition with structured planning to achieve growth and transformation.'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  Healing Through Vulnerability: My Journey of Overcoming Childhood Wounds.
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
@@ -14,7 +13,7 @@ category: blog
 tags:
   - welcome
   - blog
-author: mranderson
+author: Ashley Winter
 paginate: true
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
